@@ -1,0 +1,8 @@
+1. สร้างกระดาน field
+2. prompt user input
+3. - moveRight
+- moveLeft
+- moveUp
+- moveDown
+4. print()
+5. สร้าง function หรืออะไรสักอย่างที่เอาไว้เช็คเงื่อนไข
